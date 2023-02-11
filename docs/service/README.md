@@ -112,6 +112,8 @@
    - 包含一年免费.me域名，Digital Ocean一年100美金代金券等服务。
 4. [AutoDesk软件](https://www.autodesk.com.cn/education/free-software/featured)
    - 软件授权为教育版
+5. [OriginLab软件](https://www.originlab.com/index.aspx?go=PRODUCTS/OriginStudentVersion)
+   - 认证邮箱后可免费使用Learning Edition，许可证每半年更新一次
 
 ### 非官方Windows套件激活服务<Badge text="仅限学习与评估用途" type="warning"/>
 
